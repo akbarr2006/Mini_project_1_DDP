@@ -13,7 +13,7 @@
 ![SS_6](https://github.com/user-attachments/assets/7ebb6c06-1bf1-4a1d-94c8-479217673660)
 
 
-<p>Terdapat 2 dari sistem CRUD di output saya yaitu:</p>
+<h2>Terdapat 2 dari sistem CRUD di output saya yaitu:</h2>
 <p>1. Create (tambah transaksi)</p>
 <P>2. Read (lihat transaksi)</P>
 
